@@ -1,0 +1,59 @@
+portrait
+close-up
+wide-angle
+macro
+landscape
+aerial view
+overhead shot
+silhouette
+candid
+black and white
+vintage
+cinematic
+soft focus
+motion blur
+dramatic lighting
+natural lighting
+golden hour
+backlit
+high contrast
+low contrast
+depth of field
+fisheye
+telephoto
+long exposure
+bokeh
+low angle
+high angle
+panoramic
+studio lighting
+outdoor lighting
+soft lighting
+harsh lighting
+reflection shot
+tilt-shift
+infrared
+monochrome
+sepia tone
+split lighting
+rim lighting
+side lighting
+underexposed
+overexposed
+dynamic range
+high saturation
+low saturation
+lens flare
+minimalist
+HDR
+grainy texture
+soft glow
+cinematic frame
+surreal lighting
+flat lighting
+close crop
+rule of thirds
+symmetrical composition
+golden ratio composition
+leading lines
+vignette

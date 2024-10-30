@@ -1,0 +1,80 @@
+casual outfit
+formal attire
+business suit
+evening gown
+cocktail dress
+tuxedo
+sportswear
+workout clothes
+summer dress
+winter coat
+hoodie
+t-shirt and jeans
+button-up shirt
+blazer
+leather jacket
+denim jacket
+trench coat
+sweater
+cardigan
+tank top
+crop top
+polo shirt
+dress shirt
+skirt and blouse
+overalls
+shorts
+cargo pants
+jumpsuit
+sundress
+swimsuit
+bikini
+beachwear
+traditional kimono
+hanbok
+sari
+cheongsam
+flannel shirt
+vest
+scarf
+gloves
+boots
+high heels
+sneakers
+sandals
+flip-flops
+stilettos
+oxford shoes
+socks
+stockings
+hat
+beanie
+beret
+fedora
+sunglasses
+tie
+bowtie
+apron
+cape
+robe
+pajamas
+uniform
+school uniform
+military uniform
+armor
+cosplay outfit
+gothic style
+punk style
+bohemian style
+vintage fashion
+retro style
+minimalist fashion
+hip hop style
+streetwear
+athleisure
+loungewear
+winter outfit
+spring attire
+autumn look
+summer attire
+festival outfit

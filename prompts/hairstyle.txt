@@ -1,0 +1,42 @@
+short 
+long 
+curly 
+wavy 
+straight 
+bob cut
+pixie cut
+buzz cut
+layered 
+braided 
+ponytail
+messy bun
+top knot
+afro
+mohawk
+undercut
+side-swept bangs
+fringe bangs
+fade
+quiff
+updo
+half-up half-down
+cornrows
+dreadlocks
+beach waves
+curtain bangs
+asymmetrical cut
+faux hawk
+slicked-back
+pompadour
+tousled
+french braid
+dutch braid
+pigtails
+space buns
+bun
+sleek bob
+kinky curls
+voluminous curls
+feathered layers
+shag cut
+mullet

@@ -1,0 +1,72 @@
+beach
+forest
+mountains
+desert
+city street
+urban park
+subway station
+library
+coffee shop
+restaurant
+museum
+art gallery
+gym
+office
+home interior
+bedroom
+kitchen
+bathroom
+living room
+balcony
+rooftop
+garden
+school classroom
+playground
+stadium
+airport
+train station
+space station
+underwater
+cave
+castle
+temple
+church
+cathedral
+bridge
+waterfall
+jungle
+ocean shore
+snowy landscape
+autumn forest
+flower field
+skyscraper rooftop
+marketplace
+street market
+nightclub
+concert stage
+movie theater
+airport runway
+forest clearing
+country road
+village
+countryside
+sunflower field
+windmill farm
+farmhouse
+greenhouse
+boat deck
+riverbank
+haunted house
+ancient ruins
+vineyard
+cozy cabin
+hot spring
+meadow
+mountain peak
+canyon
+city skyline
+alleyway
+amusement park
+bookstore
+garden patio
+sunset beach
